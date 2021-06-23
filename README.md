@@ -4,7 +4,7 @@ Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 The instructor during the session was Mr. Harsh Akshit (Student Lead at Google). I got to
 learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
 <br><br>Here's the link for you to watch the sessions as well<br>
-<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbuljbDX-DamOSa2h97499sP4"> <img src="https://github.com/Gbhutak10000/Python-And-Cybersecurity-/blob/main/WhatsApp%20Image%202021-06-21%20at%205.21.45%20PM.jpeg"> </a>
+<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbuljbDX-DamOSa2h97499sP4"> <img src="https://github.com/Gbhutak10000/Python-And-Cybersecurity-/blob/main/WhatsApp%20Image%202021-06-12%20at%2010.16.38%20AM.jpeg"> </a>
 <br>I got to have hands on experience on:
 <li>Python
 <li> Selenium for Web automation
