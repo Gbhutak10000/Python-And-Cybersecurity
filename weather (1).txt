@@ -1,0 +1,9 @@
+"Weather Stats for :-
+ Name Of The City      :- BORIVALI  
+ Date                  :- 23 Jun 2021 
+ Time                  :- 06:19:56 AM 
+ Current temperature is:- 30.90 deg C 
+ Current weather desc  :- smoke 
+ Current Humidity      :- 70 
+ Current wind speed    :- 4.12 kmph 
+ "
